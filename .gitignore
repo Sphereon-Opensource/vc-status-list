@@ -11,3 +11,7 @@ coverage
 dist
 node_modules
 reports
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vc-status-list.iml
+/.idea/vcs.xml
