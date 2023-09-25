@@ -1,11 +1,11 @@
-# @digitalcredentials/vc-status-list
+# @sphereon/vc-status-list
 
 [Verifiable Credential Status List 2021](https://github.com/w3c-ccg/vc-status-list-2021)
 
 ### Creating a StatusList2021Credential
 
 ```js
-const sl = require('@digitalcredentials/vc-status-list');
+const sl = require('@sphereon/vc-status-list');
 const jsigs = require('@digitalcredentials/jsonld-signatures');
 const {Ed25519KeyPair} = require('@digitalcredentials/crypto-ld');
 const vc = require('@digitalcredentials/vc');

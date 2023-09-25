@@ -1,4 +1,4 @@
-# @digitalcredentials/vc-status-list ChangeLog
+# @sphereon/vc-status-list ChangeLog
 
 ## 7.0.0 - 2023-01-08
 
